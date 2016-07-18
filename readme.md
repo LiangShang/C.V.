@@ -1,5 +1,5 @@
 ##This is My C.V.
 
-with pdf and doc format
+with pdf and pages(used to be doc) format
 
-doc is not updated but pages format is
+doc files are not updated but pages files are still up to date.
